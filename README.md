@@ -4,6 +4,6 @@ truth or dare random generator (18+)
 this is a truth or dare generator. so far only the truth component exists.
 in order to run the code, download the code, and run.
 #2/15/23
-#update. added typing animation and dare component. game is now fully functional. next update will loop so user doesnt have to rerun.
+#update. added typing animation, dare component and else statement for invalid inputs. game is now fully functional. next update will loop so user doesnt have to rerun.
 2/16/23
 #update loop added. project is finalized.
